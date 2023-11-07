@@ -24,7 +24,7 @@ This project helped me understand the impportance of time management as i set a 
 ### Links
 
 - Solution URL: [Github URL](https://github.com/Kashyxp-patel/Product-preview-card-component)
-- Live Site URL: [Live site URL]()
+- Live Site URL: [Live site URL](https://kashyxp-patel.github.io/Product-preview-card-component/)
 
 
 ### Continued development
